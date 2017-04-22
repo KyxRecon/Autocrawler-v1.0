@@ -1,6 +1,6 @@
 #!/bin/bash
 # Autocrawler For Kali and other os 
-# By : Lucifer HR
+# By : Kyxrec0n
 again='y'
 while  [ $again == 'y' ] || [ $again == 'Y' ];
 do
