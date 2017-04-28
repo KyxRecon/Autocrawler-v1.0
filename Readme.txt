@@ -1,7 +1,7 @@
 Autocrawler v1.0 : 
 ==============
 
-By : Lucifer HR
+By@kyxrec0n
 
   This just easy tool For crawling and get emails from targeted websites and more ...
 - Easy Guide (Installation tools Requirement for running the script without any error)
